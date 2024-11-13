@@ -4,7 +4,7 @@ from openai import OpenAI
 # Show title and description.
 st.title("📄 ITGC Change Access Check")
 st.write(
-    "Upload a Jira ticket and we will help check if change access controls! "
+    "Upload a Jira ticket and we will help test change access control! "
     "To use this app, you need to provide an OpenAI API key, which you can get [here](https://platform.openai.com/account/api-keys). "
 )
 
